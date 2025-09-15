@@ -24,7 +24,7 @@ Outside of tech, you’ll usually find me:
 🍰 doing a little happy dance when there’s dessert  
 ☕ sipping coffee while sketching new design ideas  
 🌸 curating inspo for my next project  
-🏋️‍♀️ hitting the gym — because we beleive in "carbs and compounds!"  
+🏋️‍♀️ hitting the gym — because we believe in "carbs and compounds!"  
 
 I believe tech should feel ✨magical✨, friendly, and fun 💕.  
 
