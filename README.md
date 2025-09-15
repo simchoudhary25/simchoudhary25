@@ -6,7 +6,7 @@
 ## 🎓 Education
 
 📍 **Northeastern University** — *Master of Science in Information Systems* (Expected December 2025)  
-🌟 Specializing in Software Development, Data Analytics, and UI/UX Design
+🌟 Specializing in Software Development, UI/UX Design and  Data Analytics.
 
 
 ## 🌟 Specializing In
