@@ -28,7 +28,7 @@ Outside of tech, you’ll usually find me:
 
 I believe tech should feel ✨magical✨, friendly, and fun 💕.  
 
-## 💖 What I Do  
+## 🎨  What I Do  
 
 - **Design Meets Code:** Bridging design and engineering for seamless user experiences  
 - **Front-End Development:** React, HTML, CSS, SCSS, JavaScript  
