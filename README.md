@@ -43,7 +43,7 @@ I believe tech should feel ✨magical✨, friendly, and fun 💕.
 **Languages & Markup:** HTML5 · CSS3 · SCSS · JavaScript (ES6+) · Python · SQL  
 **Frameworks & Libraries:** React.js · Next.js · Tailwind CSS  
 **Design & Prototyping:** Figma · Adobe XD · Sketch · Balsamiq  
-☁**Tools & Platforms:** GitHub · Jira · Notion · Azure · AWS  
+**Tools & Platforms:** GitHub · Jira · Notion · Azure · AWS  
 
 ## 🌟 Featured Projects  
 
