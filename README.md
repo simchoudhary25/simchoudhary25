@@ -2,14 +2,12 @@
 ✨ Front-End Engineer & UI/UX Enthusiast ✨  
 💻 Turning ideas into interactive, aesthetic, and user-friendly websites
 
----
 
 ## 🎓 Education
 
 📍 **Northeastern University** — *Master of Science in Information Systems* (Expected December 2025)  
 🌟 Specializing in Software Development, Data Analytics, and UI/UX Design
 
----
 
 ## 🌟 Specializing In
 
