@@ -1,19 +1,21 @@
-# 🌸 Hi there! I’m Simran Choudhary 
-
+# 🌸 Hi there! I’m Simran Choudhary
 ✨ Front-End Engineer & UI/UX Enthusiast ✨  
-💻 Turning ideas into interactive, aesthetic, and user-friendly websites  
+💻 Turning ideas into interactive, aesthetic, and user-friendly websites
 
-**🎓 Education**
+---
+
+## 🎓 Education
 
 📍 **Northeastern University** — *Master of Science in Information Systems* (Expected December 2025)  
-🌟 Specializing in Software Development, Data Analytics, and UI/UX Design  
+🌟 Specializing in Software Development, Data Analytics, and UI/UX Design
 
+---
 
- 🌟**Specializing in:**  
-- 🎨 Software Engineer (Fronted & UI)
-- 🖥️ UX/UI Design & Research (Figma, Prototyping, Usability Testing)
-- 📊 Data Analysis (Python, SQL, Tableau, Power BI)  
+## 🌟 Specializing In
 
+🎨 **Software Engineering (Front-End & UI)**  
+🖥️ **UX/UI Design & Research** (Figma, Prototyping, Usability Testing)  
+📊 **Data Analysis** (Python, SQL, Tableau, Power BI)  
 
 ## 🌷 About Me  
 
