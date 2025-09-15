@@ -1,11 +1,12 @@
-## Hi there 👋
+## Hello, I'm Simran Choudhary 👋
+🚀 Master's Student | Aspiring Frontend Engineer & UX Designer  
 
 <!--
 **simchoudhary25/simchoudhary25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+Master of Science in Information Systems at Northeastern University (Expected Dec 2025)  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
