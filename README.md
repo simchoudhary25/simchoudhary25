@@ -52,6 +52,17 @@ I believe tech should feel ✨magical✨, friendly, and fun 💕.
 **UX Design Case Studies** — Prototypes & usability testing to refine user experiences.   
 
 
+##  👋 Let’s Connect
+
+I’m always open to collaborations, tech talks, or a quick chat over coffee ☕  
+
+🔗 **LinkedIn:** www.linkedin.com/in/simran-choudhary-2b5866295  
+📬 **Email:** simchoudhary25@gmail.com  
+🚀 **Projects & Portfolio:** [GitHub](https://github.com/simchoudhary25) | [Portfolio](https://simranchoudhary.framer.website/)  
+
+👀 Let’s create something amazing together!
+
+
 
 <!--
 **simchoudhary25/simchoudhary25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
