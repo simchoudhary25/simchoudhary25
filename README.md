@@ -47,8 +47,8 @@ I believe tech should feel ✨magical✨, friendly, and fun 💕.
 
 ## 🌟 Featured Projects  
 
-**Supercar Rental Website** — A sleek, responsive web app built with CSS Grid, Flexbox & SCSS.  
-**Analytics Dashboards** — Interactive data dashboards with Tableau & Power BI.  
+**Movie Hub** — Movie browsing website that lets users explore multiple pages with smooth navigation, a sleek interface, and a seamless viewing experience. 
+*Supercar Rental Website** — Interactive data dashboards with Tableau & Power BI.  
 **UX Design Case Studies** — Prototypes & usability testing to refine user experiences.   
 
 
